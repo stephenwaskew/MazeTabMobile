@@ -23,6 +23,7 @@ expo start --ios
 👤 **Stephen Askeew**
 
 * Website: stephenaskew.ca
+* Website: [@stephenwaskew](https://stephenaskew.ca/)
 * Github: [@stephenwaskew](https://github.com/stephenwaskew)
 
 ## Show your support
