@@ -2,6 +2,13 @@
   "expo": {
     "name": "video_maze_tab",
     "slug": "video_maze_tab",
+    "ios": {
+      "bundleIdentifier": "com.StephenAskew.MazeTab"
+    },
+    "android": {
+      "package": "com.StephenAskew.MazeTab",
+      "versionCode": 1
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,9 +23,6 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
