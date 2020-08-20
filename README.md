@@ -5,7 +5,7 @@
 > Mobile application for MazeTab created using React-native, Expo, and Google Cloud YouTube API. You should be able to clone and run the app. For it to fully work you will need to add your own YouTube API key. 
 
 
-### 🏠 [Homepage](mazetab.com)
+### 🏠 [Homepage](https://mazetab.com)
 
 ## Install
 
