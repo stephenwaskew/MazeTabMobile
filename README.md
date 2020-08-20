@@ -2,7 +2,8 @@
 <p>
 </p>
 
-> Mobile application for MazeTab. I used this udemy tutorial https://www.udemy.com/share/102F8MAEYeeV9STXo=/ to help in the development.
+> Mobile application for MazeTab created using React-native, Expo, and Google Cloud YouTube API. You should be able to clone and run the app. For it to fully work you will need to add your own YouTube API key. 
+
 
 ### 🏠 [Homepage](mazetab.com)
 
@@ -22,9 +23,10 @@ expo start --ios
 
 👤 **Stephen Askeew**
 
-* Website: stephenaskew.ca
-* Website: [@stephenwaskew](https://stephenaskew.ca/)
+
+* Website: [stephenwaskew.ca](https://stephenaskew.ca/)
 * Github: [@stephenwaskew](https://github.com/stephenwaskew)
+* Reference: [Udemy](https://www.udemy.com/share/102F8MAEYeeV9STXo=/)
 
 ## Show your support
 
